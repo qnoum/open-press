@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Open Press",
+  "short_name": "open_press",
+  "description": "An addon to allow you to read articles from websites that implement easy paywalls to bypass",
+  "homepage_url": "https://github.com/adriantombu/open-press",
+  "version": "1.0.0",
+  "author": "Adrian Tombu",
+  "icons": {
+    "48": "assets/icon-48.png",
+    "96": "assets/icon-96.png"
+  },
+  "browser_action": {
+    "default_title": "Open Press",
+    "default_icon": {
+      "16": "assets/icon-16.png",
+      "32": "assets/icon-32.png",
+      "64": "assets/icon-64.png",
+      "128": "assets/icon-128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.ladepeche.fr/*", "*://*.leparisien.fr/*", "*://*.lesechos.fr/*"],
+      "js": ["app.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+/* ladepeche.fr */
+#noscript-paywall {
+  display: none !important;
+}
+#noscript-paywall-content {
+  display: none !important;
+}
+.article-full__body-content[data-state='fixed-height'] {
+  max-height: none !important;
+  overflow: visible !important;
+}
+.article-full__body-content[data-selection='disabled'] {
+  user-select: text !important;
+}
+
+/* leparisien.fr */
+#paywall-connect {
+  display: none !important;
+}
+section.content {
+  filter: none !important;
+}
+
+/* lesechos.fr */
+.post-paywall > * {
+  height: auto !important;
+  overflow: visible !important;
+}
