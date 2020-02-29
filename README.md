@@ -1,31 +1,37 @@
 # Open Press [![Buy me a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen)](https://offset.earth/adrian)
 
-An addon to allow you to read articles from websites that implement easy paywalls to bypass.
+I created this addon to allow you to read articles from websites that implement easy paywalls to bypass.
+
+Not everyone is able to afford multiple subscriptions on many different news websites, even less when they just want to read a single article without being enrolled in a montly/yearly membership.
+
+> ⚠️ If you use this addon regularly on the same website, please consider paying a subscription for it. Don't forget that free press cannot be sunstainable without money.
 
 ## Current state
 
 ### Working within the extension
 
-- [ladepeche.fr](https://www.ladepeche.fr)
-- [leparisien.fr](http://www.leparisien.fr)
+- [ladepeche.fr](https://www.ladepeche.fr) [💳](https://clubabonnes.ladepeche.fr/offres)
+- [leparisien.fr](http://www.leparisien.fr) [💳](https://abonnement.leparisien.fr/)
 
 ### Partially working within the extension
 
-- [lesechos.fr](https://www.lesechos.fr) : refresh manually the page once and you should be good
+- [lesechos.fr](https://www.lesechos.fr) [💳](https://abonnement.lesechos.fr) : refresh manually the page once and you should be good
 
 ### Working without the extension
 
-- [lemonde.fr](https://www.lemonde.fr) : use the "Reader view" in Firefox and refresh, you should get the full article
-- [challenges.fr](https://www.challenges.fr) : use the "Reader view" in Firefox and refresh, you should get the full article
+- [lemonde.fr](https://www.lemonde.fr) [💳](https://abo.lemonde.fr): use the "Reader view" in Firefox and refresh, you should get the full article
+- [challenges.fr](https://www.challenges.fr) [💳](https://abo.challenges.fr) : use the "Reader view" in Firefox and refresh, you should get the full article
 
 ### No bypass found yet
 
-- [lefigaro.fr](https://www.lefigaro.fr)
+- [lefigaro.fr](https://www.lefigaro.fr) [💳](https://boutique.lefigaro.fr/abonnement)
+- [mediapart.fr](https://www.mediapart.fr) [💳](https://www.mediapart.fr/abo/offres)
+- [liberation.fr](https://www.liberation.fr) [💳](https://abo.liberation.fr)
 
 ## Where to install it
 
-- Chrome :
-- Firefox :
+- Chrome : [https://chrome.google.com/webstore/detail/open-press/hkfbioghcnjpdlpnahoefbbmnoceadeb](https://chrome.google.com/webstore/detail/open-press/hkfbioghcnjpdlpnahoefbbmnoceadeb)
+- Firefox : [https://addons.mozilla.org/addon/open-press/](https://addons.mozilla.org/addon/open-press/)
 
 ## How to contribute
 
