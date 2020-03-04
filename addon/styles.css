@@ -27,3 +27,11 @@ section.content {
   overflow: visible !important;
   max-height: none !important;
 }
+
+.fmpbte:before {
+  background: none !important;
+}
+
+[data-testid='post-description'] {
+  display: none !important;
+}
