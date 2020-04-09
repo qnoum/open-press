@@ -35,3 +35,13 @@ section.content {
 [data-testid='post-description'] {
   display: none !important;
 }
+
+/* journaldunet.com */
+.entry_reg_wall {
+  overflow: visible !important;
+  height: auto !important;
+}
+
+.reg_wall {
+  display: none !important;
+}

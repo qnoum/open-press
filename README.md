@@ -12,6 +12,7 @@ Not everyone is able to afford multiple subscriptions on many different news web
 
 - [ladepeche.fr](https://www.ladepeche.fr) [💳](https://clubabonnes.ladepeche.fr/offres)
 - [leparisien.fr](http://www.leparisien.fr) [💳](https://abonnement.leparisien.fr/)
+- [journaldunet.com](http://www.journaldunet.com) [💳](https://www.journaldunet.com/account/signup/)
 
 ### Partially working within the extension
 
