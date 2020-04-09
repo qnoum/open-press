@@ -13,6 +13,7 @@ Not everyone is able to afford multiple subscriptions on many different news web
 - [ladepeche.fr](https://www.ladepeche.fr) [💳](https://clubabonnes.ladepeche.fr/offres)
 - [leparisien.fr](http://www.leparisien.fr) [💳](https://abonnement.leparisien.fr/)
 - [journaldunet.com](http://www.journaldunet.com) [💳](https://www.journaldunet.com/account/signup/)
+- [lemonde.fr](https://www.lemonde.fr) [💳](https://abo.lemonde.fr)
 
 ### Partially working within the extension
 
@@ -20,7 +21,6 @@ Not everyone is able to afford multiple subscriptions on many different news web
 
 ### Working without the extension
 
-- [lemonde.fr](https://www.lemonde.fr) [💳](https://abo.lemonde.fr): use the "Reader view" in Firefox and refresh, you should get the full article
 - [challenges.fr](https://www.challenges.fr) [💳](https://abo.challenges.fr) : use the "Reader view" in Firefox and refresh, you should get the full article
 
 ### No bypass found yet

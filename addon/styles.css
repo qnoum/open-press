@@ -45,3 +45,12 @@ section.content {
 .reg_wall {
   display: none !important;
 }
+
+/* lemonde.fr */
+.article__wrapper--premium {
+  height: auto !important;
+}
+
+.paywall__container::before {
+  display: none !important;
+}
