@@ -27,11 +27,9 @@ section.content {
   overflow: visible !important;
   max-height: none !important;
 }
-
 .fmpbte:before {
   background: none !important;
 }
-
 [data-testid='post-description'] {
   display: none !important;
 }
@@ -41,7 +39,6 @@ section.content {
   overflow: visible !important;
   height: auto !important;
 }
-
 .reg_wall {
   display: none !important;
 }
@@ -50,7 +47,17 @@ section.content {
 .article__wrapper--premium {
   height: auto !important;
 }
-
 .paywall__container::before {
   display: none !important;
+}
+
+/* challenges.fr */
+.user-paying-amorce {
+  display: none !important;
+}
+.user-paying-content {
+  display: block !important;
+}
+.temp-paywall {
+  margin-top: 70px !important;
 }

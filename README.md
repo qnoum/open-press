@@ -14,14 +14,11 @@ Not everyone is able to afford multiple subscriptions on many different news web
 - [leparisien.fr](http://www.leparisien.fr) [💳](https://abonnement.leparisien.fr/)
 - [journaldunet.com](http://www.journaldunet.com) [💳](https://www.journaldunet.com/account/signup/)
 - [lemonde.fr](https://www.lemonde.fr) [💳](https://abo.lemonde.fr)
+- [challenges.fr](https://www.challenges.fr) [💳](https://abo.challenges.fr)
 
 ### Partially working within the extension
 
 - [lesechos.fr](https://www.lesechos.fr) [💳](https://abonnement.lesechos.fr) : refresh manually the page once and you should be good
-
-### Working without the extension
-
-- [challenges.fr](https://www.challenges.fr) [💳](https://abo.challenges.fr) : use the "Reader view" in Firefox and refresh, you should get the full article
 
 ### No bypass found yet
 
