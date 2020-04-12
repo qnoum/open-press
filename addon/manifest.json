@@ -4,7 +4,7 @@
   "short_name": "open_press",
   "description": "An addon to allow you to read articles from websites that implement easy paywalls to bypass",
   "homepage_url": "https://github.com/adriantombu/open-press",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "Adrian Tombu",
   "icons": {
     "48": "assets/icon-48.png",
@@ -27,7 +27,8 @@
         "*://*.lesechos.fr/*",
         "*://*.journaldunet.com/*",
         "*://*.lemonde.fr/*",
-        "*://*.challenges.fr/*"
+        "*://*.challenges.fr/*",
+        "*://*.lejdd.fr/*"
       ],
       "js": ["app.js"],
       "css": ["styles.css"],

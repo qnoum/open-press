@@ -61,3 +61,12 @@ section.content {
 .temp-paywall {
   margin-top: 70px !important;
 }
+
+/* lejdd.fr */
+article .cnt[data-poool-mode='hide'] {
+  height: auto !important;
+  overflow: visible !important;
+}
+article .cnt[data-poool-mode='hide']::after {
+  display: none !important;
+}

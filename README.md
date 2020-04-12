@@ -15,6 +15,7 @@ Not everyone is able to afford multiple subscriptions on many different news web
 - [journaldunet.com](http://www.journaldunet.com) [💳](https://www.journaldunet.com/account/signup/)
 - [lemonde.fr](https://www.lemonde.fr) [💳](https://abo.lemonde.fr)
 - [challenges.fr](https://www.challenges.fr) [💳](https://abo.challenges.fr)
+- [lejdd.fr](https://www.lejdd.fr) [💳](https://offres.lejdd.fr/abonnement/)
 
 ### Partially working within the extension
 
